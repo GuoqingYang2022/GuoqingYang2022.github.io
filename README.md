@@ -1,3 +1,3 @@
-# zhouyangvcc.github.io
+# guoqing_gml.github.io
 
-Homepage for Yang Zhou (周漾).
+Homepage for Guoqing Yang.
